@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
-        jar="/Users/isel1/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="498ad00bbbdc1101ea43ebbef014389e790b6a10">
+        <dex dex="/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc49e75c97be1db11023e1fb5e7b765a7cc0035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f459227765ec9a8260fa2772b315cf4056404da6">
+        <dex dex="/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca137ddbe5c66c0105cf8db768f713c234d874e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/geogehigbie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
         revision="21.1.2"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/isel1/Documents/AndroidStudioProjects/SharedPreference/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-bd375e54a9bfe17fcfb79924dfb466533e9b4e74.jar" />
+        <dex dex="/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_2981bf6dcf2e080ade924052002639d1e4eaebc7/classes.dex" />
     </item>
 
 </items>

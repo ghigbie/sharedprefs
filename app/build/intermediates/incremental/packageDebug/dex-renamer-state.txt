@@ -1,0 +1,7 @@
+#Fri Nov 04 17:01:40 EDT 2016
+base.0=/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc49e75c97be1db11023e1fb5e7b765a7cc0035
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca137ddbe5c66c0105cf8db768f713c234d874e5/classes.dex
+base.1=/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca137ddbe5c66c0105cf8db768f713c234d874e5
+file.0=/Users/geogehigbie/Documents/Android TTT projects/SharedPreference/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc49e75c97be1db11023e1fb5e7b765a7cc0035/classes.dex
